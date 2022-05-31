@@ -7,6 +7,6 @@ public class PipelineJenkinsTest {
 	public void pipelineJenkinsTest()
 	{
 		System.out.println("PipelineJenkins program 1: Hello ");
-	}
+// hi	}
 
 }
