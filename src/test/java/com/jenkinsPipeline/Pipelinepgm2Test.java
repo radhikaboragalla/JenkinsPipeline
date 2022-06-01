@@ -7,7 +7,7 @@ public class Pipelinepgm2Test {
 	public void pipelinepgm2Test()
 	{
 		System.out.println("PipelineJenkins program 2: Welcome");
-		//comment by Radhika
+		//comment by Radhika1
 	}
 }
 
