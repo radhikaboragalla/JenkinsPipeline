@@ -8,6 +8,6 @@ public class PipelineJenkinsTest {
 	{
 		System.out.println("PipelineJenkins program 1: Hello ");
 	}
-	//hi
+	//comment by b1
 
 }
